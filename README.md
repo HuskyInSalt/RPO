@@ -1,6 +1,6 @@
 # RPO: Retrieval Preference Optimization for Robust Retrieval-Augmented Generation 
 This repository will release the source code for the paper:
-- [RPO: Retrieval Preference Optimization for Robust Retrieval-Augmented Generation](https://arxiv.org/pdf/2501.07523.pdf). <br>
+- [RPO: Retrieval Preference Optimization for Robust Retrieval-Augmented Generation](https://arxiv.org/pdf/2501.13726). <br>
   Shi-Qi Yan, Quan Liu, Zhen-Hua Ling <br>
 
 ## Overview
